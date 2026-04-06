@@ -1,3 +1,4 @@
 Conteudo inicial de teste1
 Nova funcionalidade adicionada no arquivo teste1
 Mudanca na nova ideia em teste1
+Alterando o arquivo teste1.txt localmente
